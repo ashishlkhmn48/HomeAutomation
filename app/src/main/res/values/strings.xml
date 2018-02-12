@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Home Automation</string>
+
+    <string name="FCM_PREF">com.ashishlakhmani.homeautomation.pushnotificationreceiver.fcm_pref</string>
+    <string name="FCM_TOKEN">com.ashishlakhmani.homeautomation.pushnotificationreceiver.fcm_token</string>
+
+</resources>
