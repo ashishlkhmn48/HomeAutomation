@@ -1,1 +1,1 @@
-#Screenshots of the App.
+# Screenshots of the App.
