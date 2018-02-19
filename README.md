@@ -10,7 +10,7 @@
 <ol>
 <li>In this Project we have tried to build complete home automation solution.</li>
 <li>We have tried to use minimum resources possible.</li>
-<li><b>The Complete Project is based  over the Network i.e. It can be accessed around the world when it's made live on Internet.</b</li>
+<li><b>The Complete Project is based  over the Network i.e. It can be accessed around the world when it's made live on Internet.</b></li>
 </ol>
 
 <h1>Current Modules of the Project : </h1>
