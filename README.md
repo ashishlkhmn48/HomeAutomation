@@ -5,12 +5,23 @@
     <th> <img src = "images/pi.jpg" width = "200"> </th>
   </tr>
 </table>
-<img src = "images/raspberry-pi-logo.png" width = "200">
-<h1>Modules of the Project : </h1>
+
+<h1>About the Project</h1>
+In this Project we have tried to build complete home automation solution using resources as less as possible
+
+<h1>Current Modules of the Project : </h1>
 <ol>
-<li>Electronics Components Control(ON/OFF)..</li>
-<li>Fire Control System.</li>
-<li>Automatic Human Detection outside the Door.</li>
+<li>Electronics Components Control(ON/OFF).</li>
+<li>Fire Control System with Notifications.</li>
+<li>Automatic Human Detection Outside the Door.</li>
+<li>Pin Door Lock</li>
+</ol>
+
+<h1>Upcoming Modules of the Project : </h1>
+<ol>
+<li>Security Camera live Footage.</li>
+<li>Image Recognition Door Lock.</li>
+<li>Notifications for all the Persons(Images) Visiting your House.</li>
 </ol>
 
 
