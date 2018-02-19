@@ -1,1 +1,42 @@
 # Home Automation
+<img src = "images/raspberry-pi-logo.png" width = "200">
+<h1>Modules of the Project : </h1>
+<ol>
+<li>Electronics Components Control(ON/OFF)..</li>
+<li>Fire Control System.</li>
+<li>Automatic Human Detection outside the Door.</li>
+</ol>
+
+
+<h1>Technologies Used</h1>
+<ul>
+<li>ANDROID Libraries</li>
+<li>JAVA</li>
+<li>Raspberry Pi 3(Model B)</li>
+<li>Python</li>
+<li>PHP</li>
+</ul>
+
+<h1>Glimpses of the App</h1>
+<table>
+  <tr>
+    <th> <img src = "images/1.png" width = "200"> </th>
+    <th> <img src = "images/2.png" width = "200"> </th>
+    <th> <img src = "images/3.png" width = "200"> </th>
+  </tr>
+</table>
+
+<h1>Apk of the App</h1>
+<b>Note : </b> This App is still under development and it has certain Hardware requirements.So, you might face some issues.
+<a href = "https://raw.githubusercontent.com/ashishlkhmn48/HomeAutomation/master/images/ha.apk">Click to Download</a>
+
+<h1>Backend Files of Youthopia 2k16 for Reference</h1>
+https://github.com/ashishlkhmn48/HomeAutomation_Files
+
+<h1>References</h1>
+  <ul>
+  <li>https://www.raspberrypi.org/forums</li>
+  <li>https://developer.android.com/reference/org/w3c/dom/Document.html</li>
+  <li>https://www.w3schools.com</li>
+  <li>https://stackoverflow.com</li>
+</ul>
