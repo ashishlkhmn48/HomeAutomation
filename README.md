@@ -10,7 +10,7 @@
 <ol>
 <li>In this Project we have tried to build complete home automation solution.</li>
 <li>We have tried to use minimum resources possible.</li>
-<li><b>The Complete Project is based  over the Network i.e. It can be accessed around the world when it's made live on  Internet.</b></li>
+<li><b>The Complete Project is based  over the Network i.e. It can be accessed around the world when it's made live on Internet.</b</li>
 </ol>
 
 <h1>Current Modules of the Project : </h1>
@@ -39,7 +39,7 @@
 </ul>
 
 <h1>Glimpses of the App</h1>
-<table>
+<table> 
   <tr>
     <th> <img src = "images/1.png" width = "200"> </th>
     <th> <img src = "images/2.png" width = "200"> </th>
@@ -48,7 +48,8 @@
 </table>
 
 <h1>Apk of the App</h1>
-<b>Note : </b> This App is still under development and it has certain Hardware requirements.So, you might face some issues.
+<b>Note : </b> This App is still under development and it has certain Hardware requirements. So, you might face some issues.
+<br>
 <a href = "https://raw.githubusercontent.com/ashishlkhmn48/HomeAutomation/master/images/ha.apk">Click to Download</a>
 
 <h1>Backend Files of HomeAutomation for Reference</h1>
