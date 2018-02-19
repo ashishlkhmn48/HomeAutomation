@@ -1,4 +1,10 @@
 # Home Automation
+<table>
+  <tr>
+    <th> <img src = "images/raspberry-pi-logo.png" width = "200"> </th>
+    <th> <img src = "images/pi.jpg" width = "200"> </th>
+  </tr>
+</table>
 <img src = "images/raspberry-pi-logo.png" width = "200">
 <h1>Modules of the Project : </h1>
 <ol>
@@ -30,7 +36,7 @@
 <b>Note : </b> This App is still under development and it has certain Hardware requirements.So, you might face some issues.
 <a href = "https://raw.githubusercontent.com/ashishlkhmn48/HomeAutomation/master/images/ha.apk">Click to Download</a>
 
-<h1>Backend Files of Youthopia 2k16 for Reference</h1>
+<h1>Backend Files of HomeAutomation for Reference</h1>
 https://github.com/ashishlkhmn48/HomeAutomation_Files
 
 <h1>References</h1>
