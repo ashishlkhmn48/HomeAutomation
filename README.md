@@ -7,7 +7,11 @@
 </table>
 
 <h1>About the Project</h1>
-In this Project we have tried to build complete home automation solution using resources as less as possible
+<ol>
+<li>In this Project we have tried to build complete home automation solution.</li>
+<li>We have tried to use minimum resources possible.</li>
+<li><b>The Complete Project is based  over the Network i.e. It can be accessed around the world when it's made live on  Internet.</b></li>
+</ol>
 
 <h1>Current Modules of the Project : </h1>
 <ol>
@@ -21,7 +25,7 @@ In this Project we have tried to build complete home automation solution using r
 <ol>
 <li>Security Camera live Footage.</li>
 <li>Image Recognition Door Lock.</li>
-<li>Notifications for all the Persons(Images) Visiting your House.</li>
+<li>Notifications for all the Persons(Images) Visiting the House.</li>
 </ol>
 
 
