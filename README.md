@@ -47,6 +47,7 @@
   </tr>
 </table>
 
+
 <h1>Apk of the App</h1>
 <b>Note : </b> This App is still under development and it has certain Hardware requirements. So, you might face some issues.
 <br>
