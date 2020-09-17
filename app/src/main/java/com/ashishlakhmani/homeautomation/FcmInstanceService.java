@@ -16,4 +16,5 @@ public class FcmInstanceService extends FirebaseInstanceIdService {
         editor.putString(getString(R.string.FCM_TOKEN),recent_token);
         editor.apply();
     }
+    
 }
