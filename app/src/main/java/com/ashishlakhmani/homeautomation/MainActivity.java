@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity {
     private Switch toggle, toggle_buzzer;
     private ImageView image;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
