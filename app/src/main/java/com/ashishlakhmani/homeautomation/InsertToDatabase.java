@@ -18,6 +18,7 @@ import java.net.URLEncoder;
 public class InsertToDatabase extends AsyncTask<String, Void, String> {
 
     private Context context;
+    
 
     public InsertToDatabase(Context context) {
         this.context = context;
