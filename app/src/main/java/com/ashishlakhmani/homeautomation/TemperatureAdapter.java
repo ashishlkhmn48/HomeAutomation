@@ -9,7 +9,6 @@ import android.widget.TextView;
 
 import java.util.List;
 
-
 public class TemperatureAdapter extends RecyclerView.Adapter {
 
     private Context context;
