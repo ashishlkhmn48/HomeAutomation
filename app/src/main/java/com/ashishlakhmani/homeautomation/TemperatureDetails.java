@@ -22,4 +22,5 @@ public class TemperatureDetails {
     public String getDateTime() {
         return dateTime;
     }
+    
 }
